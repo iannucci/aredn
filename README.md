@@ -101,7 +101,7 @@ On Ubuntu/Debian:
 ```
 apt-get install git subversion build-essential libncurses5-dev \
   zlib1g-dev gawk unzip libxml-perl flex wget gettext quilt \
-  python libssl-dev shellcheck lua5.1
+  python3 python3-venv libssl-dev shellcheck lua5.1
 ```
 
 On openSUSE:
